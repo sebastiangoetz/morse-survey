@@ -1,0 +1,3 @@
+Venue Type {
+	Conference, Workshop, Journal, Book, Magazine
+}

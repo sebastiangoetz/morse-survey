@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<slrProjectMetainformation>
+    <title>MORSE: Model-driven Robot Software Engineering</title>
+    <keywords>robotics, models, mdsd</keywords>
+    <projectAbstract>TODO</projectAbstract>
+    <taxonomyDescription>TODO</taxonomyDescription>
+    <authorsList>
+        <email>sebastian.goetz@acm.org</email>
+        <name>Sebastian Götz</name>
+        <organisation>Technische Universität Dresden, Germany</organisation>
+    </authorsList>
+</slrProjectMetainformation>
